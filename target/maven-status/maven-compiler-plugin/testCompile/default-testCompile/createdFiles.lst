@@ -1,0 +1,5 @@
+com\creatio\crm\application\tests\LoginTest.class
+com\creatio\crm\application\actions\LoginActions.class
+com\creatio\crm\application\pages\LoginPage.class
+com\creatio\crm\application\tests\BaseTest.class
+com\creatio\crm\application\pages\HomePage.class

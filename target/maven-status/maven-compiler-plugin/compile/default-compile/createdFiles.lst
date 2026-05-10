@@ -1,0 +1,12 @@
+com\creatio\crm\framework\db\commons\DBCommons.class
+com\creatio\crm\framework\api\commons\JMeterCommons.class
+com\creatio\crm\framework\web\commons\WebCommons.class
+com\creatio\crm\framework\utilities\DBUtil.class
+com\creatio\crm\framework\listeners\TestListeners.class
+com\creatio\crm\framework\reports\Reports.class
+com\creatio\crm\framework\utilities\PropUtil.class
+com\creatio\crm\framework\utilities\PDFUtil.class
+com\creatio\crm\framework\api\commons\APICommons.class
+com\creatio\crm\framework\listeners\RetryListeners.class
+com\creatio\crm\framework\utilities\ExcelUtil.class
+com\creatio\crm\framework\base\BasePage.class
