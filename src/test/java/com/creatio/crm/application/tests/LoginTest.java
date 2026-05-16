@@ -15,6 +15,7 @@ public class LoginTest extends BaseTest{
 	@Test(priority=1)
 	public void Login()
 	{
+		System.out.println("entered 'Login' - method");
 		loginActions.loginProcess();
 		loginActions.logOutProcess();
 	}
