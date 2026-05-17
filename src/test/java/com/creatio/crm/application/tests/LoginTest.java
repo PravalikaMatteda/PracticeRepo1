@@ -17,7 +17,7 @@ public class LoginTest extends BaseTest{
 	{
 		System.out.println("entered 'Login' - method");
 		loginActions.loginProcess();
-		System.out.println("finished 'Login Process");
+		System.out.println("Completed 'Login Process' Method");
 		loginActions.logOutProcess();
 	}
 

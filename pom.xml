@@ -80,7 +80,7 @@
 
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>TestRunner/E2ETestSuite.xml</suiteXmlFile>
+							<suiteXmlFile>TestRunner/$(TestSuite).xml</suiteXmlFile>
 						</suiteXmlFiles>
 
 					</configuration>
