@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Application Test Suite">
+    <test verbose="2" preserve-order="true" name="AppTest">
+        <classes>
+            <class name="com.creatio.crm.framework.runner.ApplicationTestRunner"/>
+        </classes>
+    </test>
+</suite>
